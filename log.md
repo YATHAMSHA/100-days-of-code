@@ -8,3 +8,11 @@
 
 **Link to work**:https://codepen.io/yathamsha/pen/dyZPKJR
 
+### Day 1: January 29,2022
+
+**Today's Progress**: created random number generator with help of html, css & js
+
+**Thoghts**: have to progress more on grids in css & work more on js
+
+**Link to work**:
+
