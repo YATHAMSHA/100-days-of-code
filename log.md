@@ -22,4 +22,4 @@
 
 **Thoghts**: have to progress more on grids in css & work more on js
 
-**Link to work**:
+**Link to work**: https://github.com/YATHAMSHA/quiz-app
