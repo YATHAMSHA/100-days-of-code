@@ -24,7 +24,7 @@
 
 **Link to work**: https://github.com/YATHAMSHA/quiz-app
 
-### Day 2: January 30,2022
+### Day 3: January 31,2022
 
 **Today's Progress**: created a themed-clock using html, css & js
 
