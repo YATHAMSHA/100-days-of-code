@@ -23,3 +23,11 @@
 **Thoghts**: have to progress more on grids in css & work more on js
 
 **Link to work**: https://github.com/YATHAMSHA/quiz-app
+
+### Day 2: January 30,2022
+
+**Today's Progress**: created a themed-clock using html, css & js
+
+**Thoghts**: have to progress more in js & in js frameworks.
+
+**Link to work**: https://github.com/YATHAMSHA/themed-clock
