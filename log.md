@@ -31,3 +31,12 @@
 **Thoghts**: have to progress more in js & in js frameworks.
 
 **Link to work**: https://github.com/YATHAMSHA/themed-clock
+
+
+### Day 4: February 1,2022
+
+**Today's Progress**: created a note-app using html, css & js
+
+**Thoghts**: have to progress more in js & in js frameworks.
+
+**Link to work**: https://github.com/YATHAMSHA/note-app
