@@ -40,3 +40,12 @@
 **Thoghts**: have to progress more in js & in js frameworks.
 
 **Link to work**: https://github.com/YATHAMSHA/note-app
+
+
+### Day 5: February 2,2022
+
+**Today's Progress**: created a github-profile-explorer  using html, css & js
+
+**Thoghts**: have to progress more in css frameworks.
+
+**Link to work**: https://github.com/YATHAMSHA/github-profile-explorer
