@@ -49,3 +49,12 @@
 **Thoghts**: have to progress more in css frameworks.
 
 **Link to work**: https://github.com/YATHAMSHA/github-profile-explorer
+
+
+### Day 6: February 3,2022
+
+**Today's Progress**: created a password-generator using html, css & js
+
+**Thoghts**: have to progress more in css frameworks.
+
+**Link to work**: https://github.com/YATHAMSHA/password-generator
