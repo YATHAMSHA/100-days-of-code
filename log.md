@@ -55,6 +55,6 @@
 
 **Today's Progress**: created a password-generator using html, css & js
 
-**Thoghts**: have to progress more in css frameworks.
+**Thoghts**: have to progress more in css frameworks & work more on react hooks.
 
 **Link to work**: https://github.com/YATHAMSHA/password-generator
