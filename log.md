@@ -58,3 +58,12 @@
 **Thoghts**: have to progress more in css frameworks & work more on react hooks.
 
 **Link to work**: https://github.com/YATHAMSHA/password-generator
+
+
+### Day 7: February 4,2022
+
+**Today's Progress**: created a catch insect game  using html, css & js
+
+**Thoghts**: have to progress more in js frameworks.
+
+**Link to work**: https://github.com/YATHAMSHA/Catch-Insect-Game
