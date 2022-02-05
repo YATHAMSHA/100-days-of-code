@@ -67,3 +67,12 @@
 **Thoghts**: have to progress more in js frameworks.
 
 **Link to work**: https://github.com/YATHAMSHA/Catch-Insect-Game
+
+
+### Day 8: February 5,2022
+
+**Today's Progress**: created a brick breaker game  using html, css & js
+
+**Thoghts**: have to progress more in js frame works and have to progress more on css frame works.
+
+**Link to work**: https://github.com/YATHAMSHA/brick-breaker-game
