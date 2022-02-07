@@ -84,3 +84,11 @@
 **Thoghts**: have to progress more in js frame works and have to progress more on css frame works.
 
 **Link to work**: https://github.com/YATHAMSHA/Weather-app
+
+### Day 10: February 7,2022
+
+**Today's Progress**: created a Tic-Tac-Toe game  using html, css & js
+
+**Thoghts**: have to progress more in js frame works and have to progress more on css frame works.
+
+**Link to work**: https://github.com/YATHAMSHA/tic-tac-toe
