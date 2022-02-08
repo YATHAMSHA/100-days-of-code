@@ -92,3 +92,11 @@
 **Thoghts**: have to progress more in js frame works and have to progress more on css frame works.
 
 **Link to work**: https://github.com/YATHAMSHA/tic-tac-toe
+
+### Day 11: February 8,2022
+
+**Today's Progress**: created a calculator using html, css & js
+
+**Thoghts**: have to progress more in js frame works and have to progress more on css frame works.
+
+**Link to work**: https://github.com/YATHAMSHA/js-calculator
