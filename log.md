@@ -103,3 +103,12 @@
 **Thoghts**: have to progress more in js frame works and have to progress more on css frame works.
 
 **Link to work**: https://github.com/YATHAMSHA/js-calculator
+
+
+### Day 12: February 9,2022
+
+**Today's Progress**: started working on cypto app made primary part of app using html, css & reactjs
+
+**Thoghts**: hopefully project will be get done by tomorrow.
+
+**Link to work**: https://github.com/YATHAMSHA/crypto-app
