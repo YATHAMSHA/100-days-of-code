@@ -120,3 +120,12 @@
 **Thoghts**: hoping for more reactjs projects.
 
 **Link to work**: https://github.com/YATHAMSHA/crypto-reactapp
+
+
+### Day 14: February 11,2022
+
+**Today's Progress**: started working on mortgage app done with primary part of app using html, css & reactjs.
+
+**Thoghts**: hopefully project will get done by tomorrow.
+
+**Link to work**: https://github.com/YATHAMSHA/mortgage-app
