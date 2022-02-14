@@ -147,3 +147,12 @@
 **Thoghts**: hoping for new projects.
 
 **Link to work**: https://github.com/YATHAMSHA/movie-app
+
+
+### Day 17: February 14,2022
+
+**Today's Progress**: created a slider-game using htm , css & js.
+
+**Thoghts**: hoping for new projects.
+
+**Link to work**: https://github.com/YATHAMSHA/slider-game
