@@ -165,6 +165,6 @@
 
 **Thoghts**: hopefully project will be completed by tomorrow.
 
-**Link to work**:
+**Link to work**: https://github.com/YATHAMSHA/rick-maze-game
 
 
