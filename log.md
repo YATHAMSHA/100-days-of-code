@@ -157,3 +157,14 @@
 **Thoghts**: hoping for new projects.
 
 **Link to work**: https://github.com/YATHAMSHA/slider-game
+
+
+### Day 18: February 15,2022
+
+**Today's Progress**: started working on rick maze game using html , css & js.
+
+**Thoghts**: hopefully project will be completed by tomorrow.
+
+**Link to work**:
+
+
