@@ -161,10 +161,19 @@
 
 ### Day 18: February 15,2022
 
-**Today's Progress**: started working on rick maze game using html , css & js.
+**Today's Progress**: started working on rick maze game using html , scss & js.
 
 **Thoghts**: hopefully project will be completed by tomorrow.
 
-**Link to work**: https://github.com/YATHAMSHA/rick-maze-game
+**Link to work**: https://codepen.io/yathamsha/pen/GROMVMw
+
+
+### Day 19: February 16,2022
+
+**Today's Progress**: started working on rick maze game using html , scss & js.
+
+**Thoghts**: project is successfully completed learned so many things in this project.
+
+**Link to work**: https://codepen.io/yathamsha/pen/GROMVMw
 
 
