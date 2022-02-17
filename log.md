@@ -177,3 +177,13 @@
 **Link to work**: https://codepen.io/yathamsha/pen/GROMVMw
 
 
+
+### Day 20: February 17,2022
+
+**Today's Progress**: created a responsive slider  using html , scss & js.
+
+**Thoghts**: expecting for more projects.
+
+**Link to work**: https://github.com/YATHAMSHA/responsive-slider
+
+
