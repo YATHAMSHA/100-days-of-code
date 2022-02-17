@@ -182,7 +182,7 @@
 
 **Today's Progress**: created a responsive slider  using html , scss & js.
 
-**Thoghts**: expecting for more projects.
+**Thoghts**: have to explore more on new frameworks. 
 
 **Link to work**: https://github.com/YATHAMSHA/responsive-slider
 
