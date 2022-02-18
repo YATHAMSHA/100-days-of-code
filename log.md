@@ -187,3 +187,14 @@
 **Link to work**: https://github.com/YATHAMSHA/responsive-slider
 
 
+### Day 21: February 18,2022
+
+**Today's Progress**: created a responsive to-do-list  using html , scss & js.
+
+**Thoghts**: have to explore more on new frameworks. 
+
+**Link to work**: 
+
+
+
+
