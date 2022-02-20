@@ -197,4 +197,23 @@
 
 
 
+### Day 22: February 19,2022
+
+**Today's Progress**: started working on simon-game  using html , scss & js.
+
+**Thoghts**: hopefully project can be completed by tomorrow.
+
+**Link to work**: https://github.com/YATHAMSHA/simon-game
+
+
+### Day 23: February 20,2022
+
+**Today's Progress**: completed simon-game  using html , scss & js.
+
+**Thoghts**: project is successfully completed learned so many things in this project.
+
+**Link to work**: https://github.com/YATHAMSHA/simon-game
+
+
+
 
