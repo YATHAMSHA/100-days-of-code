@@ -215,5 +215,22 @@
 **Link to work**: https://github.com/YATHAMSHA/simon-game
 
 
+### Day 24: February 21,2022
+
+**Today's Progress**: started working on micro-code editor  using html , css & js.
+
+**Thoghts**: hopefully project will be completed  y tomorrow.
+
+**Link to work**: https://github.com/YATHAMSHA/micro-editor
+**LIve Demonstration using codepen**: https://codepen.io/yathamsha/pen/JjOZPWX
 
 
+
+### Day 25: February 22,2022
+
+**Today's Progress**: completed  micro-code editor  using html , css & js.
+
+**Thoghts**: successfully project has been completed.
+
+**Link to work**: https://github.com/YATHAMSHA/micro-editor
+**LIve Demonstration using codepen**: https://codepen.io/yathamsha/pen/JjOZPWX
