@@ -234,3 +234,32 @@
 
 **Link to work**: https://github.com/YATHAMSHA/micro-editor
 **LIve Demonstration using codepen**: https://codepen.io/yathamsha/pen/JjOZPWX
+
+
+### Day 26: February 23,2022
+
+**Today's Progress**: started working on  resume- builder using reactjs and nodejs.
+
+**Thoghts**: initial part of project is completed.
+
+**Link to work**: https://github.com/YATHAMSHA/Resume-builder
+
+
+
+### Day 27: February 24,2022
+
+**Today's Progress**: secondary part of  resume- builder is completed using reactjs and nodejs.
+
+**Thoghts**: hopefully project will be completed by tomorrow.
+
+**Link to work**: https://github.com/YATHAMSHA/Resume-builder
+
+
+
+### Day 26: February 23,2022
+
+**Today's Progress**: successfully project  resume- builder is done using reactjs and nodejs.
+
+**Thoghts**: learnt many things explored many stuff.
+
+**Link to work**: https://github.com/YATHAMSHA/Resume-builder
