@@ -256,10 +256,19 @@
 
 
 
-### Day 26: February 23,2022
+### Day 28: February 25,2022
 
 **Today's Progress**: successfully project  resume- builder is done using reactjs and nodejs.
 
-**Thoghts**: learnt many things explored many stuff.
+**Thoghts**: learnt many things and explored many things in nodejs.
 
 **Link to work**: https://github.com/YATHAMSHA/Resume-builder
+
+
+### Day 29: February 26,2022
+
+**Today's Progress**: created a Sticky-Notes using html, css and js.
+
+**Thoghts**: hoping for new kind of projects
+
+**Link to work**: https://github.com/YATHAMSHA/Sticky-Notes
