@@ -272,3 +272,12 @@
 **Thoghts**: hoping for new kind of projects
 
 **Link to work**: https://github.com/YATHAMSHA/Sticky-Notes
+
+
+### Day 30: February 27,2022
+
+**Today's Progress**: created a Quote-generator using html, css and js.
+
+**Thoghts**: hoping for new kind of projects.
+
+**Link to work**: https://github.com/YATHAMSHA/Quote-generator
