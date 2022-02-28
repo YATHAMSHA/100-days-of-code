@@ -281,3 +281,13 @@
 **Thoghts**: hoping for new kind of projects.
 
 **Link to work**: https://github.com/YATHAMSHA/Quote-generator
+
+
+
+### Day 31: February 28,2022
+
+**Today's Progress**: started working on basic math calculation using html, css and js.
+
+**Thoghts**: hoping for new kind of projects.
+
+**Link to work**: https://github.com/YATHAMSHA/basic-math-calcualtion
