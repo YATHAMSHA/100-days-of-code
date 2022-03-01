@@ -291,3 +291,13 @@
 **Thoghts**: hoping for new kind of projects.
 
 **Link to work**: https://github.com/YATHAMSHA/basic-math-calcualtion
+
+
+
+### Day 32: March 1,2022
+
+**Today's Progress**: successfully completed  basic math calculation using html, css and js.
+
+**Thoghts**: hoping for new kind of projects.
+
+**Link to work**: https://github.com/YATHAMSHA/basic-math-calcualtion
