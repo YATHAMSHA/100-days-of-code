@@ -301,3 +301,12 @@
 **Thoghts**: hoping for new kind of projects.
 
 **Link to work**: https://github.com/YATHAMSHA/basic-math-calcualtion
+
+
+### Day 33: March 2,2022
+
+**Today's Progress**: created Tip-Calcualtor using html, css and js.
+
+**Thoghts**: hoping for new kind of projects.
+
+**Link to work**: https://github.com/YATHAMSHA/Tip-Calculator
