@@ -310,3 +310,13 @@
 **Thoghts**: hoping for new kind of projects.
 
 **Link to work**: https://github.com/YATHAMSHA/Tip-Calculator
+
+
+
+### Day 34: March 3,2022
+
+**Today's Progress**: created Flash-Cards using html, css and js.
+
+**Thoghts**: hoping for new kind of projects.
+
+**Link to work**: https://github.com/YATHAMSHA/Flash-Cards
