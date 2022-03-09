@@ -361,5 +361,14 @@
 **Link to work**: https://github.com/YATHAMSHA/Real-time-File-Sharing-app
 
 
+### Day 39: March 8,2022
+
+**Today's Progress**: started working on snake-game using html, css and js.
+
+**Thoghts**: hoping for new projects.
+
+**Link to work**: https://github.com/YATHAMSHA/snake-game
+
+
 
 
