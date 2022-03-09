@@ -365,9 +365,18 @@
 
 **Today's Progress**: started working on snake-game using html, css and js.
 
-**Thoghts**: hoping for new projects.
+**Thoghts**: have to start working  more on styling.
 
-**Link to work**: https://github.com/YATHAMSHA/snake-game
+**Link to work**: https://github.com/YATHAMSHA/snake-game.
+
+
+### Day 40: March 9,2022
+
+**Today's Progress**: primary part is done  snake-game using html, css and js.
+
+**Thoghts**: have to start working  more on styling.
+
+**Link to work**: https://github.com/YATHAMSHA/snake-game.
 
 
 
